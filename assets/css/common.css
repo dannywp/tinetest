@@ -1,0 +1,14 @@
+* {
+  -webkit-font-smoothing: antialiased;
+}
+body {
+  color: #353535;
+  background-color: #FFFAFA;
+  line-height: 1.5;
+  font-family: 'Share', serif;
+  font-size: 20px;
+}
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+}
